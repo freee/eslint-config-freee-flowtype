@@ -25,6 +25,7 @@ module.exports = {
         jsxBracketSameLine: false
       }
     ],
+    'no-console': 'warn',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn'
   },
